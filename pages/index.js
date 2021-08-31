@@ -1,9 +1,7 @@
-
+import Todo from '../component/todo'
 
 export default function Home() {
   return (
-    <div>
-      asdf
-    </div>
+    <Todo />
   )
 }
